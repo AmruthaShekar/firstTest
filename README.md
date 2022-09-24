@@ -4,5 +4,3 @@ firstTime creating repo in github and palying with it
 # i know you are here
 
 #yen madana adike?
-
-
